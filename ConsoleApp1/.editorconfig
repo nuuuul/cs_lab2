@@ -1,4 +1,0 @@
-﻿[*.cs]
-
-# IDE0210: Преобразовать в операторы верхнего уровня
-dotnet_diagnostic.IDE0210.severity = suggestion
